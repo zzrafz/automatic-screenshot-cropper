@@ -2,7 +2,7 @@
 
 An automatic image cropper for apps like Instagram, Whatsapp, etc that removes the unnecessary garbage from your screenshot file (written in Python).
 
-It works by finding the first white line above/below the .png file and removing everything above/below it.
+It works by finding the first white line above/below the central line of the .png file and removing everything above/below it.
 
 
 
